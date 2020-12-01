@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\bin\Debug\CapNegocio.dll
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\bin\Debug\CapNegocio.pdb
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\bin\Debug\CapDatos.dll
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\bin\Debug\CapEntidad.dll
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\bin\Debug\CapDatos.pdb
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\bin\Debug\CapEntidad.pdb
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\obj\Debug\CapNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\obj\Debug\CapNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\obj\Debug\CapNegocio.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\obj\Debug\CapNegocio.dll
+C:\Users\Usuario\source\repos\Hospital_1\CapNegocio\obj\Debug\CapNegocio.pdb

@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Hospital_1\CapEntidad\bin\Debug\CapEntidad.dll
+C:\Users\Usuario\source\repos\Hospital_1\CapEntidad\bin\Debug\CapEntidad.pdb
+C:\Users\Usuario\source\repos\Hospital_1\CapEntidad\obj\Debug\CapEntidad.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Hospital_1\CapEntidad\obj\Debug\CapEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Hospital_1\CapEntidad\obj\Debug\CapEntidad.dll
+C:\Users\Usuario\source\repos\Hospital_1\CapEntidad\obj\Debug\CapEntidad.pdb

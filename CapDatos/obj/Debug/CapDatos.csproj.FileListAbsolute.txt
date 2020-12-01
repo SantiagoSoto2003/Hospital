@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Hospital_1\CapDatos\bin\Debug\CapDatos.dll
+C:\Users\Usuario\source\repos\Hospital_1\CapDatos\bin\Debug\CapDatos.pdb
+C:\Users\Usuario\source\repos\Hospital_1\CapDatos\bin\Debug\CapEntidad.dll
+C:\Users\Usuario\source\repos\Hospital_1\CapDatos\bin\Debug\CapEntidad.pdb
+C:\Users\Usuario\source\repos\Hospital_1\CapDatos\obj\Debug\CapDatos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Hospital_1\CapDatos\obj\Debug\CapDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Hospital_1\CapDatos\obj\Debug\CapDatos.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Hospital_1\CapDatos\obj\Debug\CapDatos.dll
+C:\Users\Usuario\source\repos\Hospital_1\CapDatos\obj\Debug\CapDatos.pdb
